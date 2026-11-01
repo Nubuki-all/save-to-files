@@ -1,0 +1,10 @@
+# Signing keys
+debug.keystore
+*.jks
+*.keystore
+
+# Build output and caches
+.gradle/
+.kotlin/
+build/
+local.properties

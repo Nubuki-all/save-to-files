@@ -30,3 +30,7 @@ repository secrets:
 | `ANDROID_KEYSTORE_PASSWORD` | keystore password |
 | `ANDROID_KEY_ALIAS` | key alias |
 | `ANDROID_KEY_PASSWORD` | key password |
+
+## License
+
+MIT, see [LICENSE](LICENSE).
